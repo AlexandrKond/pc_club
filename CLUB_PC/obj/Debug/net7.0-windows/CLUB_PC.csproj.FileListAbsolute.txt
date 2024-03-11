@@ -1,0 +1,96 @@
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.exe
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.deps.json
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.runtimeconfig.json
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.pdb
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.AssemblyReference.cache
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC_MarkupCompile.cache
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC_MarkupCompile.lref
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.g.resources
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.AssemblyInfoInputs.cache
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.AssemblyInfo.cs
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.CoreCompileInputs.cache
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\refint\CLUB_PC.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.pdb
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.genruntimeconfig.cache
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\ref\CLUB_PC.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Registration.g.cs
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Registration.baml
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.CopyComplete
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\DataGrid.g.cs
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\DataGrid.baml
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\ListView.g.cs
+C:\Users\mifix\source\repos\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\ListView.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.exe
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.deps.json
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.runtimeconfig.json
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\CLUB_PC.pdb
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.AssemblyReference.cache
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\DataGrid.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\ListView.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Registration.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC_MarkupCompile.cache
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC_MarkupCompile.lref
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\DataGrid.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\ListView.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Registration.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.g.resources
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.AssemblyInfoInputs.cache
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.AssemblyInfo.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.CoreCompileInputs.cache
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.CopyComplete
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\refint\CLUB_PC.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.pdb
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.genruntimeconfig.cache
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\ref\CLUB_PC.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Captcha.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Captcha.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\AddEditPage.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\AddEditPage.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Check.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Window_Reservation.g.cs
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Check.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Window_Reservation.baml
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.csproj.ResolveComReference.cache
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\Abuska\Desktop\Ржака\Cotlin\Мои файлы\CLUB_PC\CLUB_PC\obj\Debug\net7.0-windows\CLUB_PC.sourcelink.json
